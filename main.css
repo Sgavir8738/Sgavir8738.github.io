@@ -1,5 +1,5 @@
 html {
-    background-color: honeydew;
+    background-color: gainsboro;
 }
 
 h1 {
@@ -11,5 +11,10 @@ h1 {
 
 h2 {
     font-size: 36px;
+    margin-left: 2%;
+}
+
+p, ul {
+    font-size: 24px;
     margin-left: 2%;
 }
