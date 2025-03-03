@@ -16,19 +16,17 @@ h2 {
     margin-bottom: 1%;
 }
 
-p {
-    font-size: 22px;
-    margin-left: 12%;
-    margin-right: 12%;
+h3 {
+    font-size: 28px;
 }
 
-ul {
+p, ul {
     font-size: 22px;
-    margin-left: 8%;
-    margin-right: 8%;
-}
-
-.skills {
     margin-left: 4%;
     margin-right: 4%;
+}
+
+.about, .skills, .project {
+    margin-left: 8%;
+    margin-right: 8%;
 }
