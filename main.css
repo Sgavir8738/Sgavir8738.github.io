@@ -28,7 +28,7 @@ p, ul {
     text-align: center;
     img {
         width: 25%;
-        margin: 5% 5% 5% 5%;
+        margin: 5%;
     }
 }
 .about, .skills, .project {
